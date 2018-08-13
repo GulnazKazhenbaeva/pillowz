@@ -20,7 +20,7 @@ target 'Pillowz' do
   pod 'FacebookShare'
   pod 'SwiftyVK', '3.1.1'
   pod 'OneSignal', '>= 2.5.2', '< 3.0'
-  pod "TLPhotoPicker"
+  pod 'TLPhotoPicker'
   pod 'GooglePlaces'
   pod 'GooglePlacePicker'
   pod 'GoogleMaps'

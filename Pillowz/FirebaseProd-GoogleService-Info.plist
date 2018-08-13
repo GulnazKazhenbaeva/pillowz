@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>363458537723-jlbn87ft9fs7vvlk4jjmbdfilcsvoorh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.363458537723-jlbn87ft9fs7vvlk4jjmbdfilcsvoorh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWkO1tCgToA7vdFj1o0SZEAb9QqgyGbxs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>363458537723</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kaz.innovatech.Pillowz</string>
+	<key>PROJECT_ID</key>
+	<string>pillowzprod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pillowzprod.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:363458537723:ios:45ca3f743a9c7829</string>
+	<key>DATABASE_URL</key>
+	<string>https://pillowzprod.firebaseio.com</string>
+</dict>
+</plist>
