@@ -1,0 +1,428 @@
+{
+    "spaces": [
+        {
+            "lon": 0,
+            "favourite": false,
+            "rule": {
+                "smoke": false,
+                "additional": "",
+                "childs": false,
+                "animals": false,
+                "limited": false,
+                "party": false,
+                "youth": false,
+                "other": ""
+            },
+            "cancellation_policy": "",
+            "infrastructure": "",
+            "comforts": [
+                {
+                    "items": [
+                        {
+                            "checked": false,
+                            "name": "Охрана",
+                            "comfort_item_id": 1
+                        },
+                        {
+                            "checked": false,
+                            "name": "Камеры",
+                            "comfort_item_id": 2
+                        },
+                        {
+                            "checked": false,
+                            "name": "Детектор дыма",
+                            "comfort_item_id": 3
+                        },
+                        {
+                            "checked": false,
+                            "name": "Аптечка",
+                            "comfort_item_id": 4
+                        },
+                        {
+                            "checked": false,
+                            "name": "Огнетушитель",
+                            "comfort_item_id": 5
+                        },
+                        {
+                            "checked": false,
+                            "name": "Сейф",
+                            "comfort_item_id": 6
+                        }
+                    ],
+                    "comfort_group_id": 1,
+                    "name": "Безопасность"
+                },
+                {
+                    "items": [
+                        {
+                            "checked": false,
+                            "name": "Беспроводной интернет",
+                            "comfort_item_id": 7
+                        },
+                        {
+                            "checked": false,
+                            "name": "Телевизор",
+                            "comfort_item_id": 14
+                        },
+                        {
+                            "checked": false,
+                            "name": "Кухня/мини-кухня",
+                            "comfort_item_id": 19
+                        },
+                        {
+                            "checked": false,
+                            "name": "Мебель в комнатах",
+                            "comfort_item_id": 9
+                        },
+                        {
+                            "checked": false,
+                            "name": "Плечики",
+                            "comfort_item_id": 12
+                        },
+                        {
+                            "checked": false,
+                            "name": "Полотенца",
+                            "comfort_item_id": 13
+                        },
+                        {
+                            "checked": false,
+                            "name": "Стиральная машина",
+                            "comfort_item_id": 15
+                        },
+                        {
+                            "checked": false,
+                            "name": "Фен",
+                            "comfort_item_id": 16
+                        },
+                        {
+                            "checked": false,
+                            "name": "Утюг",
+                            "comfort_item_id": 17
+                        },
+                        {
+                            "checked": false,
+                            "name": "Кондиционер",
+                            "comfort_item_id": 18
+                        },
+                        {
+                            "checked": false,
+                            "name": "Холодильник",
+                            "comfort_item_id": 20
+                        },
+                        {
+                            "checked": false,
+                            "name": "Посудомоечная",
+                            "comfort_item_id": 21
+                        },
+                        {
+                            "checked": false,
+                            "name": "Микроволновая печь",
+                            "comfort_item_id": 22
+                        },
+                        {
+                            "checked": false,
+                            "name": "Посуда",
+                            "comfort_item_id": 23
+                        },
+                        {
+                            "checked": false,
+                            "name": "Электрочайник",
+                            "comfort_item_id": 24
+                        },
+                        {
+                            "checked": false,
+                            "name": "Завтрак",
+                            "comfort_item_id": 25
+                        },
+                        {
+                            "checked": false,
+                            "name": "Телефон",
+                            "comfort_item_id": 8
+                        },
+                        {
+                            "checked": false,
+                            "name": "Ванна",
+                            "comfort_item_id": 10
+                        },
+                        {
+                            "checked": false,
+                            "name": "Душевая кабина",
+                            "comfort_item_id": 11
+                        }
+                    ],
+                    "comfort_group_id": 2,
+                    "name": "Удобства"
+                },
+                {
+                    "items": [
+                        {
+                            "checked": false,
+                            "name": "Балкон",
+                            "comfort_item_id": 26
+                        },
+                        {
+                            "checked": false,
+                            "name": "Лоджия",
+                            "comfort_item_id": 27
+                        },
+                        {
+                            "checked": false,
+                            "name": "Камин",
+                            "comfort_item_id": 28
+                        },
+                        {
+                            "checked": false,
+                            "name": "Лифт",
+                            "comfort_item_id": 29
+                        },
+                        {
+                            "checked": false,
+                            "name": "Грузовой лифт",
+                            "comfort_item_id": 30
+                        },
+                        {
+                            "checked": false,
+                            "name": "Бесплатная парковка",
+                            "comfort_item_id": 31
+                        },
+                        {
+                            "checked": false,
+                            "name": "Тренажерный зал",
+                            "comfort_item_id": 32
+                        },
+                        {
+                            "checked": false,
+                            "name": "Джакузи",
+                            "comfort_item_id": 33
+                        },
+                        {
+                            "checked": false,
+                            "name": "Бассейн",
+                            "comfort_item_id": 34
+                        },
+                        {
+                            "checked": false,
+                            "name": "Терасса",
+                            "comfort_item_id": 35
+                        },
+                        {
+                            "checked": false,
+                            "name": "Баня",
+                            "comfort_item_id": 36
+                        },
+                        {
+                            "checked": false,
+                            "name": "Гараж",
+                            "comfort_item_id": 37
+                        },
+                        {
+                            "checked": false,
+                            "name": "Отопление",
+                            "comfort_item_id": 38
+                        }
+                    ],
+                    "comfort_group_id": 3,
+                    "name": "Комфорт"
+                },
+                {
+                    "items": [
+                        {
+                            "checked": false,
+                            "name": "Складная детская кровать",
+                            "comfort_item_id": 39
+                        },
+                        {
+                            "checked": false,
+                            "name": "Детская кроватка",
+                            "comfort_item_id": 40
+                        },
+                        {
+                            "checked": false,
+                            "name": "Стул для кормления",
+                            "comfort_item_id": 41
+                        },
+                        {
+                            "checked": false,
+                            "name": "Детские игрушки",
+                            "comfort_item_id": 42
+                        },
+                        {
+                            "checked": false,
+                            "name": "Детская ванночка",
+                            "comfort_item_id": 43
+                        }
+                    ],
+                    "comfort_group_id": 4,
+                    "name": "Удобства для семей"
+                },
+                {
+                    "items": [
+                        {
+                            "checked": false,
+                            "name": "Уборка",
+                            "comfort_item_id": 44
+                        },
+                        {
+                            "checked": false,
+                            "name": "Прачечная",
+                            "comfort_item_id": 45
+                        },
+                        {
+                            "checked": false,
+                            "name": "Трансфер",
+                            "comfort_item_id": 46
+                        }
+                    ],
+                    "comfort_group_id": 5,
+                    "name": "Сервис"
+                },
+                {
+                    "items": [
+                        {
+                            "checked": false,
+                            "name": "Можно курить",
+                            "comfort_item_id": 47
+                        },
+                        {
+                            "checked": false,
+                            "name": "Можно с животными",
+                            "comfort_item_id": 48
+                        },
+                        {
+                            "checked": false,
+                            "name": "Подходит для детей",
+                            "comfort_item_id": 49
+                        },
+                        {
+                            "checked": false,
+                            "name": "Подходит для младнцев",
+                            "comfort_item_id": 50
+                        },
+                        {
+                            "checked": false,
+                            "name": "Проведение праздников",
+                            "comfort_item_id": 51
+                        },
+                        {
+                            "checked": false,
+                            "name": "Для гостей с ограничениями",
+                            "comfort_item_id": 52
+                        },
+                        {
+                            "checked": false,
+                            "name": "Принимаются кредитки",
+                            "comfort_item_id": 53
+                        },
+                        {
+                            "checked": false,
+                            "name": "Не шуметь после",
+                            "comfort_item_id": 54
+                        },
+                        {
+                            "checked": false,
+                            "name": "Время прибытия",
+                            "comfort_item_id": 55
+                        },
+                        {
+                            "checked": false,
+                            "name": "Время выезда",
+                            "comfort_item_id": 56
+                        }
+                    ],
+                    "comfort_group_id": 6,
+                    "name": "Условия проживания"
+                }
+            ],
+            "category": "Дом",
+            "reviews": [],
+            "lat": 0,
+            "prices": {
+                "YEARLY": null,
+                "DAILY": null,
+                "QUARTERLY": null,
+                "HALFDAY": null,
+                "MONTHLY": null,
+                "HOURLY": null
+            },
+            "destination": "",
+            "images": [],
+            "additional_charges": "",
+            "address": "",
+            "name": "",
+            "review": null,
+            "arrival_and_checkout": "",
+            "fields": {
+                "valid": false,
+                "all": [
+                    {
+                        "param": "full_size",
+                        "type": "IntegerField",
+                        "value": null
+                    },
+                    {
+                        "param": "kitchen_size",
+                        "type": "IntegerField",
+                        "value": null
+                    },
+                    {
+                        "param": "residential",
+                        "type": "CharField",
+                        "value": null
+                    },
+                    {
+                        "param": "bedrooms_count",
+                        "type": "IntegerField",
+                        "value": null
+                    },
+                    {
+                        "param": "beds_count",
+                        "type": "IntegerField",
+                        "value": null
+                    },
+                    {
+                        "param": "condition",
+                        "choices": [
+                            {
+                                "value_display": "GOOD",
+                                "value": 0
+                            },
+                            {
+                                "value_display": "BAD",
+                                "value": 1
+                            }
+                        ],
+                        "type": "ChoiceField",
+                        "value": null
+                    },
+                    {
+                        "param": "year",
+                        "type": "IntegerField",
+                        "value": null
+                    },
+                    {
+                        "param": "rest_space",
+                        "type": "IntegerField",
+                        "value": null
+                    }
+                ]
+            },
+            "space_id": 41,
+            "realtor": {
+                "business_name": "",
+                "verified": false,
+                "person_name": "",
+                "full": false,
+                "contact_number": "",
+                "certificate": null,
+                "business_id": "",
+                "person_id": "",
+                "address": "",
+                "email": "",
+                "rtype_display": "INDIVIDUAL",
+                "rtype": 1
+            },
+            "description": ""
+        }
+    ],
+    "code": 0
+}
